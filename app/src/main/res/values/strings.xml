@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hitung Luas dan Keliling</string>
+    <string name="hitung_persegi_panjang">Hitung Persegi Panjang</string>
+    <string name="hitung_segitiga">Hitung Segitiga</string>
+    <string name="hitung_lingkaran">Hitung Lingkaran</string>
+    <string name="sisi_1">Panjang/Alas/Diameter</string>
+    <string name="sisi_2">Lebar/Tinggi</string>
+</resources>
